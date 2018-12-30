@@ -1,6 +1,8 @@
 import Page from '../layouts/main'
+import css from "../styles.scss"
+
 export default () => (
   <Page>
-    <p>Home page with global styles!</p>
+    <p className={css.example}>Home page with global styles!</p>
   </Page>
 )
