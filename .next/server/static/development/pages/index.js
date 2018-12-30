@@ -196,7 +196,7 @@ var Header = function Header() {
       lineNumber: 10
     },
     __self: this
-  }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }, "Header Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/about",
     __source: {
       fileName: _jsxFileName,
@@ -210,7 +210,7 @@ var Header = function Header() {
       lineNumber: 13
     },
     __self: this
-  }, "About")));
+  }, "Header About")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
