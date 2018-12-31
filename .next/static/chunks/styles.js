@@ -30,7 +30,7 @@ module.exports = {"example":"_3q0nqQ9ZKcBd8-DB7rcoyt"};;
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1546229565729");
+            injectCss(link, link.href.split("?")[0] + "?unix=1546229755199");
           });
       }
     }
