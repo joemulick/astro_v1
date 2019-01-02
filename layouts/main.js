@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-import Header from './Header'
+import ButtonAppBar from './ButtonAppBar'
 import Footer from './Footer'
 
 export default ({children}) => (
@@ -365,7 +365,7 @@ export default ({children}) => (
       }
     `}</style>
 
-    <Header />
+    <ButtonAppBar />
         {children}
     <Footer />   
     
